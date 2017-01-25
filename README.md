@@ -1,4 +1,4 @@
-# Exercise - let's collaborate on git
+# Exercise - let's collaborate with github
 
 Please try the following steps:
 
